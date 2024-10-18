@@ -1,0 +1,165 @@
+{
+    "data" : [
+        {
+            "question": "What is the use of the `let` keyword in JavaScript?",
+            "options1": "To declare a block-scoped variable",
+            "options2": "To declare a function-scoped variable",
+            "options3": "To declare a constant",
+            "options4": "To declare a global variable",
+            "ans": 1
+        },
+        {
+            "question": "Which method is used to convert a JSON string to a JavaScript object?",
+            "options1": "JSON.parse()",
+            "options2": "JSON.stringify()",
+            "options3": "JSON.toObject()",
+            "options4": "JSON.convert()",
+            "ans": 1
+        },
+        {
+            "question": "Which symbol is used for comments in JavaScript?",
+            "options1": "//",
+            "options2": "#",
+            "options3": "<!-- -->",
+            "options4": "/* */",
+            "ans": 1
+        },
+        {
+            "question": "Which method is used to remove the last element from an array?",
+            "options1": "pop()",
+            "options2": "push()",
+            "options3": "shift()",
+            "options4": "unshift()",
+            "ans": 1
+        },
+        {
+            "question": "What is the output of `typeof null` in JavaScript?",
+            "options1": "object",
+            "options2": "null",
+            "options3": "undefined",
+            "options4": "string",
+            "ans": 1
+        },
+        {
+            "question": "Which keyword is used to define a JavaScript function?",
+            "options1": "function",
+            "options2": "def",
+            "options3": "fun",
+            "options4": "lambda",
+            "ans": 1
+        },
+        {
+            "question": "How do you write a conditional statement in JavaScript for executing some code if 'i' is NOT equal to 5?",
+            "options1": "if (i != 5)",
+            "options2": "if i <> 5",
+            "options3": "if i =! 5 then",
+            "options4": "if (i <> 5)",
+            "ans": 1
+        },
+        {
+            "question": "Which method is used to add one or more elements to the end of an array?",
+            "options1": "push()",
+            "options2": "pop()",
+            "options3": "shift()",
+            "options4": "unshift()",
+            "ans": 1
+        },
+        {
+            "question": "What is the purpose of the `this` keyword in JavaScript?",
+            "options1": "It refers to the current object",
+            "options2": "It refers to the previous object",
+            "options3": "It refers to the global object",
+            "options4": "It refers to the next object",
+            "ans": 1
+        },
+        {
+            "question": "How do you create an object in JavaScript?",
+            "options1": "var obj = {}",
+            "options2": "var obj = []",
+            "options3": "var obj = ()",
+            "options4": "var obj = <>",
+            "ans": 1
+        },
+        {
+            "question": "Which method is used to call a function after a specified time interval?",
+            "options1": "setTimeout()",
+            "options2": "setInterval()",
+            "options3": "setTime()",
+            "options4": "setTimer()",
+            "ans": 1
+        },
+        {
+            "question": "What is the correct syntax to create a class in JavaScript?",
+            "options1": "class MyClass {}",
+            "options2": "class = MyClass {}",
+            "options3": "class: MyClass {}",
+            "options4": "class MyClass = {}",
+            "ans": 1
+        },
+        {
+            "question": "Which operator is used to assign a value to a variable?",
+            "options1": "=",
+            "options2": "==",
+            "options3": "===",
+            "options4": ":=",
+            "ans": 1
+        },
+        {
+            "question": "How do you write a single-line comment in JavaScript?",
+            "options1": "// This is a comment",
+            "options2": "# This is a comment",
+            "options3": "<!-- This is a comment -->",
+            "options4": "/* This is a comment */",
+            "ans": 1
+        },
+        {
+            "question": "How do you write a multi-line comment in JavaScript?",
+            "options1": "/* This is a comment */",
+            "options2": "// This is a comment //",
+            "options3": "# This is a comment #",
+            "options4": "<!-- This is a comment -->",
+            "ans": 1
+        },
+        {
+            "question": "What will be the output of `console.log(typeof NaN);`?",
+            "options1": "number",
+            "options2": "NaN",
+            "options3": "undefined",
+            "options4": "string",
+            "ans": 1
+        },
+        {
+            "question": "Which method is used to merge two or more arrays in JavaScript?",
+            "options1": "concat()",
+            "options2": "merge()",
+            "options3": "join()",
+            "options4": "combine()",
+            "ans": 1
+        },
+        {
+            "question": "How can you add a comment to JavaScript code?",
+            "options1": "//This is a comment",
+            "options2": "'This is a comment",
+            "options3": "/*This is a comment*/",
+            "options4": "<!--This is a comment-->",
+            "ans": 1
+        },
+        {
+            "question": "What will the following code output: `console.log(0.1 + 0.2 === 0.3);`?",
+            "options1": "false",
+            "options2": "true",
+            "options3": "undefined",
+            "options4": "null",
+            "ans": 1
+        },
+        {
+            "question": "Which method converts an array to a string in JavaScript?",
+            "options1": "toString()",
+            "options2": "join()",
+            "options3": "concat()",
+            "options4": "slice()",
+            "ans": 1
+        }
+    ]
+    
+}

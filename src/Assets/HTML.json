@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "question": "What does HTML stand for?",
+      "options1": "Hyper Text Markup Language",
+      "options2": "Hyperlinks and Text Markup Language",
+      "options3": "Home Tool Markup Language",
+      "options4": "Hyper Tool Markup Language",
+      "ans": 1
+    },
+    {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options1": "&lt;ul&gt;",
+      "options2": "&lt;ol&gt;",
+      "options3": "&lt;li&gt;",
+      "options4": "&lt;list&gt;",
+      "ans": 1
+    },
+    {
+      "question": "What does the &lt;br&gt; tag represent?",
+      "options1": "Break",
+      "options2": "Line",
+      "options3": "Column",
+      "options4": "Paragraph",
+      "ans": 1
+    },
+    {
+      "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+      "options1": "src",
+      "options2": "alt",
+      "options3": "title",
+      "options4": "href",
+      "ans": 2
+    },
+    {
+      "question": "Which tag is used to define a hyperlink?",
+      "options1": "&lt;link&gt;",
+      "options2": "&lt;a&gt;",
+      "options3": "&lt;href&gt;",
+      "options4": "&lt;hyper&gt;",
+      "ans": 2
+    },
+    {
+      "question": "Which HTML element is used to define important text?",
+      "options1": "&lt;strong&gt;",
+      "options2": "&lt;important&gt;",
+      "options3": "&lt;b&gt;",
+      "options4": "&lt;emphasis&gt;",
+      "ans": 1
+    },
+    {
+      "question": "Which tag is used to define a table row?",
+      "options1": "&lt;tr&gt;",
+      "options2": "&lt;table&gt;",
+      "options3": "&lt;td&gt;",
+      "options4": "&lt;th&gt;",
+      "ans": 1
+    },
+    {
+      "question": "In HTML, what does the acronym DOCTYPE stand for?",
+      "options1": "Document Code Type",
+      "options2": "Document Content Type",
+      "options3": "Document Type Declaration",
+      "options4": "Document Text Encoding",
+      "ans": 3
+    },
+    {
+      "question": "Which tag is used to create a dropdown list?",
+      "options1": "&lt;select&gt;",
+      "options2": "&lt;input type='dropdown'&gt;",
+      "options3": "&lt;dropdown&gt;",
+      "options4": "&lt;list&gt;",
+      "ans": 1
+    },
+    {
+      "question": "Which tag is used to define the metadata about an HTML document, such as author, description, etc.?",
+      "options1": "&lt;meta&gt;",
+      "options2": "&lt;head&gt;",
+      "options3": "&lt;title&gt;",
+      "options4": "&lt;link&gt;",
+      "ans": 1
+    },
+    {
+      "question": "What is the correct HTML for inserting an image?",
+      "options1": "&lt;img src='image.jpg'&gt;",
+      "options2": "&lt;image&gt;image.jpg&lt;/image&gt;",
+      "options3": "&lt;img&gt;image.jpg&lt;/img&gt;",
+      "options4": "&lt;src&gt;image.jpg&lt;/src&gt;",
+      "ans": 1
+    },
+    {
+      "question": "Which tag is used to define the header for a document or section?",
+      "options1": "&lt;header&gt;",
+      "options2": "&lt;h&gt;",
+      "options3": "&lt;head&gt;",
+      "options4": "&lt;h1&gt;",
+      "ans": 4
+    },
+    {
+      "question": "In HTML, which tag is used to define a hyperlink, or a link to another page?",
+      "options1": "&lt;link&gt;",
+      "options2": "&lt;a&gt;",
+      "options3": "&lt;href&gt;",
+      "options4": "&lt;hyper&gt;",
+      "ans": 2
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options1": "Computer Style Sheets",
+      "options2": "Cascading Style Sheets",
+      "options3": "Creative Style Sheets",
+      "options4": "Colorful Style Sheets",
+      "ans": 2
+    },
+    {
+      "question": "Which tag is used to define a footer for a document or section?",
+      "options1": "&lt;footer&gt;",
+      "options2": "&lt;foot&gt;",
+      "options3": "&lt;end&gt;",
+      "options4": "&lt;h6&gt;",
+      "ans": 1
+    },
+    {
+      "question": "Which HTML attribute specifies an inline style for an element?",
+      "options1": "class",
+      "options2": "style",
+      "options3": "id",
+      "options4": "font",
+      "ans": 2
+    },
+    {
+      "question": "Which tag is used to define an ordered list?",
+      "options1": "&lt;ol&gt;",
+      "options2": "&lt;ul&gt;",
+      "options3": "&lt;li&gt;",
+      "options4": "&lt;list&gt;",
+      "ans": 1
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "options1": "&lt;a href='http://www.example.com'&gt;Example&lt;/a&gt;",
+      "options2": "&lt;link src='http://www.example.com'&gt;Example&lt;/link&gt;",
+      "options3": "&lt;a src='http://www.example.com'&gt;Example&lt;/a&gt;",
+      "options4": "&lt;hyperlink&gt;http://www.example.com&lt;/hyperlink&gt;",
+      "ans": 1
+    },
+    {
+      "question": "Which tag is used to define the body of the document?",
+      "options1": "&lt;body&gt;",
+      "options2": "&lt;document&gt;",
+      "options3": "&lt;head&gt;",
+      "options4": "&lt;html&gt;",
+      "ans": 1
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+    "data" : [
+        {
+          "question": "What is Bootstrap?",
+          "options1": "A front-end framework for developing responsive websites",
+          "options2": "A back-end framework for server-side applications",
+          "options3": "A database management system",
+          "options4": "A cloud storage solution",
+          "ans": 1
+        },
+        {
+          "question": "Which company developed Bootstrap?",
+          "options1": "Google",
+          "options2": "Twitter",
+          "options3": "Facebook",
+          "options4": "Microsoft",
+          "ans": 2
+        },
+        {
+          "question": "Which CSS preprocessor is supported by Bootstrap?",
+          "options1": "Sass",
+          "options2": "LESS",
+          "options3": "Stylus",
+          "options4": "PostCSS",
+          "ans": 1
+        },
+        {
+          "question": "What does the class 'col-md-4' in Bootstrap do?",
+          "options1": "Creates a column that spans 4 out of 12 columns on medium screens",
+          "options2": "Creates a column that spans 4 out of 12 columns on large screens",
+          "options3": "Creates a column that spans 4 out of 12 columns on small screens",
+          "options4": "Creates a column that spans 4 out of 12 columns on extra-large screens",
+          "ans": 1
+        },
+        {
+          "question": "Which class is used to create a button with rounded corners in Bootstrap?",
+          "options1": "btn-rounded",
+          "options2": "btn-circle",
+          "options3": "btn-pill",
+          "options4": "btn-rounded-corners",
+          "ans": 3
+        },
+        {
+          "question": "How do you create a responsive image in Bootstrap?",
+          "options1": "Add the class 'img-responsive' to the image",
+          "options2": "Add the class 'responsive-img' to the image",
+          "options3": "Add the class 'img-fluid' to the image",
+          "options4": "Add the class 'img-resize' to the image",
+          "ans": 3
+        },
+        {
+          "question": "Which Bootstrap class is used to apply a fixed-width container?",
+          "options1": ".container-fluid",
+          "options2": ".container",
+          "options3": ".fixed-container",
+          "options4": ".container-fixed",
+          "ans": 2
+        },
+        {
+          "question": "What is the purpose of the Bootstrap grid system?",
+          "options1": "To style text and headings",
+          "options2": "To create a responsive layout",
+          "options3": "To manage data storage",
+          "options4": "To handle user authentication",
+          "ans": 2
+        },
+        {
+          "question": "Which class in Bootstrap adds a primary color background to a button?",
+          "options1": "btn-main",
+          "options2": "btn-primary",
+          "options3": "btn-default",
+          "options4": "btn-important",
+          "ans": 2
+        },
+        {
+          "question": "What is the default grid system in Bootstrap?",
+          "options1": "8 columns",
+          "options2": "10 columns",
+          "options3": "12 columns",
+          "options4": "16 columns",
+          "ans": 3
+        },
+        {
+          "question": "How do you create a navigation bar in Bootstrap?",
+          "options1": "Use the class 'nav-bar'",
+          "options2": "Use the class 'navbar'",
+          "options3": "Use the class 'navigation-bar'",
+          "options4": "Use the class 'nav-header'",
+          "ans": 2
+        },
+        {
+          "question": "Which class in Bootstrap is used to create a dropdown menu?",
+          "options1": "dropdown-toggle",
+          "options2": "dropdown-menu",
+          "options3": "dropdown-item",
+          "options4": "dropdown-list",
+          "ans": 2
+        },
+        {
+          "question": "What does the Bootstrap class 'btn-block' do?",
+          "options1": "Creates a block-level button that spans the full width of its parent",
+          "options2": "Creates a button that is vertically aligned",
+          "options3": "Creates a button with no borders",
+          "options4": "Creates a button with rounded corners",
+          "ans": 1
+        },
+        {
+          "question": "How can you add a tooltip to an element in Bootstrap?",
+          "options1": "Add the 'data-tooltip' attribute",
+          "options2": "Add the 'data-toggle=\"tooltip\"' attribute",
+          "options3": "Add the 'tooltip' class",
+          "options4": "Add the 'title' attribute",
+          "ans": 2
+        },
+        {
+          "question": "Which class is used to hide an element on extra-small screens in Bootstrap?",
+          "options1": "d-none-xs",
+          "options2": "d-xs-none",
+          "options3": "d-sm-none",
+          "options4": "d-none",
+          "ans": 3
+        },
+        {
+          "question": "Which Bootstrap utility class is used to add margin to an element?",
+          "options1": "m-",
+          "options2": "p-",
+          "options3": "mg-",
+          "options4": "pd-",
+          "ans": 1
+        },
+        {
+          "question": "How do you create a card in Bootstrap?",
+          "options1": "Use the class 'card-body'",
+          "options2": "Use the class 'card-container'",
+          "options3": "Use the class 'card'",
+          "options4": "Use the class 'card-box'",
+          "ans": 3
+        },
+        {
+          "question": "What is the Bootstrap class for creating a modal?",
+          "options1": "modal-container",
+          "options2": "modal-box",
+          "options3": "modal-dialog",
+          "options4": "modal-content",
+          "ans": 3
+        },
+        {
+          "question": "Which Bootstrap class is used for a responsive table?",
+          "options1": "table-responsive",
+          "options2": "table-fluid",
+          "options3": "table-container",
+          "options4": "table-responsive-container",
+          "ans": 1
+        },
+        {
+          "question": "Which class in Bootstrap is used to create a badge?",
+          "options1": "badge-pill",
+          "options2": "badge",
+          "options3": "badge-label",
+          "options4": "badge-tag",
+          "ans": 2
+        }
+      ]
+      
+}

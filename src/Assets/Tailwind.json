@@ -1,0 +1,165 @@
+{
+    "data" :[
+
+            {
+              "question": "What is Tailwind CSS?",
+              "options1": "A utility-first CSS framework",
+              "options2": "A JavaScript library",
+              "options3": "A CSS preprocessor",
+              "options4": "A CSS-in-JS solution",
+              "ans": 1
+            },
+            {
+              "question": "Which of the following is a feature of Tailwind CSS?",
+              "options1": "Predefined component classes",
+              "options2": "Utility-first approach",
+              "options3": "Global CSS resets",
+              "options4": "Scoped CSS modules",
+              "ans": 2
+            },
+            {
+              "question": "How do you apply a background color in Tailwind CSS?",
+              "options1": "bg-red",
+              "options2": "bg-red-500",
+              "options3": "background-red-500",
+              "options4": "background-color-red-500",
+              "ans": 2
+            },
+            {
+              "question": "What is the default Tailwind CSS configuration file name?",
+              "options1": "tailwind.config.json",
+              "options2": "tailwind.config.css",
+              "options3": "tailwind.config.js",
+              "options4": "tailwind.config.scss",
+              "ans": 3
+            },
+            {
+              "question": "How do you make text bold in Tailwind CSS?",
+              "options1": "font-weight-bold",
+              "options2": "font-bold",
+              "options3": "text-bold",
+              "options4": "text-weight-bold",
+              "ans": 2
+            },
+            {
+              "question": "Which class would you use to center text in Tailwind CSS?",
+              "options1": "text-middle",
+              "options2": "text-center",
+              "options3": "align-center",
+              "options4": "center-text",
+              "ans": 2
+            },
+            {
+              "question": "How do you add padding of 4 units in Tailwind CSS?",
+              "options1": "padding-4",
+              "options2": "pad-4",
+              "options3": "p-4",
+              "options4": "pd-4",
+              "ans": 3
+            },
+            {
+              "question": "Which class is used to apply margin in Tailwind CSS?",
+              "options1": "m-4",
+              "options2": "margin-4",
+              "options3": "mg-4",
+              "options4": "mar-4",
+              "ans": 1
+            },
+            {
+              "question": "How do you apply a flex display in Tailwind CSS?",
+              "options1": "flexible",
+              "options2": "display-flex",
+              "options3": "d-flex",
+              "options4": "flex",
+              "ans": 4
+            },
+            {
+              "question": "Which Tailwind CSS class would you use to make text italic?",
+              "options1": "text-italic",
+              "options2": "font-italic",
+              "options3": "italic",
+              "options4": "text-slant",
+              "ans": 3
+            },
+            {
+              "question": "How do you apply a shadow in Tailwind CSS?",
+              "options1": "shadow",
+              "options2": "box-shadow",
+              "options3": "shadow-1",
+              "options4": "apply-shadow",
+              "ans": 1
+            },
+            {
+              "question": "Which class is used to set the maximum width of an element in Tailwind CSS?",
+              "options1": "max-w",
+              "options2": "max-width",
+              "options3": "width-max",
+              "options4": "w-max",
+              "ans": 1
+            },
+            {
+              "question": "How do you set an element to be hidden in Tailwind CSS?",
+              "options1": "hide",
+              "options2": "d-none",
+              "options3": "hidden",
+              "options4": "none",
+              "ans": 3
+            },
+            {
+              "question": "What is the class for applying a rounded border in Tailwind CSS?",
+              "options1": "border-rounded",
+              "options2": "round",
+              "options3": "rounded",
+              "options4": "border-round",
+              "ans": 3
+            },
+            {
+              "question": "Which class is used to make an element full width in Tailwind CSS?",
+              "options1": "w-full",
+              "options2": "width-full",
+              "options3": "full-width",
+              "options4": "wide-full",
+              "ans": 1
+            },
+            {
+              "question": "How do you set an element to be flex column in Tailwind CSS?",
+              "options1": "flex-dir-col",
+              "options2": "flex-col",
+              "options3": "flex-direction-col",
+              "options4": "flex-column",
+              "ans": 2
+            },
+            {
+              "question": "Which of the following class applies a grid display in Tailwind CSS?",
+              "options1": "display-grid",
+              "options2": "grid-d",
+              "options3": "grid",
+              "options4": "d-grid",
+              "ans": 3
+            },
+            {
+              "question": "How do you set the z-index in Tailwind CSS?",
+              "options1": "z-index",
+              "options2": "z",
+              "options3": "index-z",
+              "options4": "z-10",
+              "ans": 4
+            },
+            {
+              "question": "Which Tailwind CSS class is used to apply a hover effect?",
+              "options1": "hover",
+              "options2": "hover-bg",
+              "options3": "hover:bg-blue-500",
+              "options4": "hover-effect",
+              "ans": 3
+            },
+            {
+              "question": "How do you apply an underline to text in Tailwind CSS?",
+              "options1": "text-underline",
+              "options2": "underline",
+              "options3": "underline-text",
+              "options4": "text-underline",
+              "ans": 2
+            }
+          ]
+}

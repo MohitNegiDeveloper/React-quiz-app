@@ -1,0 +1,165 @@
+{
+"data": [
+  {
+    "question": "What is React?",
+    "options1": "A JavaScript library for building user interfaces",
+    "options2": "A programming language",
+    "options3": "A database management system",
+    "options4": "A server-side framework",
+    "ans": 1
+  },
+  {
+    "question": "What is JSX?",
+    "options1": "JavaScript XML",
+    "options2": "Java Syntax Extension",
+    "options3": "JavaScript Extension",
+    "options4": "JavaScript Xcode",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of ReactDOM in React?",
+    "options1": "To render React components in the DOM",
+    "options2": "To manage state in React components",
+    "options3": "To handle HTTP requests in React",
+    "options4": "To provide routing functionality in React",
+    "ans": 1
+  },
+  {
+    "question": "What are components in React?",
+    "options1": "Reusable pieces of code",
+    "options2": "Functions or classes that may accept inputs and return React elements",
+    "options3": "Both A and B",
+    "options4": "None of the above",
+    "ans": 3
+  },
+  {
+    "question": "Which method is used to change the state of a component in React?",
+    "options1": "setState()",
+    "options2": "changeState()",
+    "options3": "updateState()",
+    "options4": "modifyState()",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of props in React?",
+    "options1": "To pass data from parent to child components",
+    "options2": "To handle events in React components",
+    "options3": "To define the structure of a component",
+    "options4": "To define CSS styles for a component",
+    "ans": 1
+  },
+  {
+    "question": "What is the virtual DOM in React?",
+    "options1": "A lightweight representation of the actual DOM",
+    "options2": "A concept used in functional programming",
+    "options3": "A component in React used for routing",
+    "options4": "A feature to create dynamic elements in React",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of keys in React lists?",
+    "options1": "To identify unique list items",
+    "options2": "To style list items",
+    "options3": "To sort list items alphabetically",
+    "options4": "To filter list items",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of componentDidMount() lifecycle method in React?",
+    "options1": "To perform actions after the component is rendered",
+    "options2": "To update the component's state",
+    "options3": "To handle user input events",
+    "options4": "To define the initial state of the component",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of setState() in React?",
+    "options1": "To update the component's state",
+    "options2": "To define the initial state of the component",
+    "options3": "To handle HTTP requests",
+    "options4": "To render child components",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of React Router?",
+    "options1": "To provide routing functionality in React applications",
+    "options2": "To manage state in React components",
+    "options3": "To handle HTTP requests",
+    "options4": "To create reusable components",
+    "ans": 1
+  },
+  {
+    "question": "What is a controlled component in React?",
+    "options1": "A component that controls other components",
+    "options2": "A component that manages its own state",
+    "options3": "A component that receives data from props",
+    "options4": "A component that renders static content",
+    "ans": 2
+  },
+  {
+    "question": "What is the purpose of the render() method in React?",
+    "options1": "To define the initial state of the component",
+    "options2": "To update the component's state",
+    "options3": "To render the component's UI",
+    "options4": "To handle user input events",
+    "ans": 3
+  },
+  {
+    "question": "What is the purpose of componentWillUnmount() lifecycle method in React?",
+    "options1": "To perform cleanup actions before the component is removed from the DOM",
+    "options2": "To define the initial state of the component",
+    "options3": "To handle HTTP requests",
+    "options4": "To render child components",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of PropTypes in React?",
+    "options1": "To define the type of props passed to a component",
+    "options2": "To define CSS styles for a component",
+    "options3": "To manage state in React components",
+    "options4": "To create reusable components",
+    "ans": 1
+  },
+  {
+    "question": "What is Redux in React?",
+    "options1": "A state management library",
+    "options2": "A routing library",
+    "options3": "A testing library",
+    "options4": "A styling library",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of mapDispatchToProps() in Redux?",
+    "options1": "To map dispatch functions to props in React components",
+    "options2": "To define the structure of a component",
+    "options3": "To manage state in React components",
+    "options4": "To handle HTTP requests",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of bindActionCreators() in Redux?",
+    "options1": "To bind action creators to the store dispatch function",
+    "options2": "To manage state in React components",
+    "options3": "To define the structure of a component",
+    "options4": "To handle HTTP requests",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of middleware in Redux?",
+    "options1": "To extend the functionality of the store's dispatch function",
+    "options2": "To manage state in React components",
+    "options3": "To define CSS styles for a component",
+    "options4": "To create reusable components",
+    "ans": 1
+  },
+  {
+    "question": "What is the purpose of useSelector() hook in React Redux?",
+    "options1": "To access the Redux store state in functional components",
+    "options2": "To handle HTTP requests",
+    "options3": "To define the structure of a component",
+    "options4": "To render the component's UI",
+    "ans": 1
+  }
+]
+}
+

@@ -1,0 +1,164 @@
+{
+"data":[
+      {
+      "question": "What does CSS stand for?",
+      "options1": "Computer Style Sheets",
+      "options2": "Cascading Style Sheets",
+      "options3": "Coded Style Sheets",
+      "options4": "Creative Style Sheets",
+      "ans": 2
+    },
+    {
+      "question": "Which property is used to change the background color of an element?",
+      "options1": "color",
+      "options2": "background-color",
+      "options3": "bgcolor",
+      "options4": "background",
+      "ans": 2
+    },
+    {
+      "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+      "options1": "p {font-weight:bold;}",
+      "options2": "p {text:bold;}",
+      "options3": "p {bold:font;}",
+      "options4": "p {font:bold;}",
+      "ans": 1
+    },
+    {
+      "question": "Which CSS property is used to control the text size of an element?",
+      "options1": "text-size",
+      "options2": "font-size",
+      "options3": "text-style",
+      "options4": "size",
+      "ans": 2
+    },
+    {
+      "question": "What does the 'Cascading' in CSS refer to?",
+      "options1": "The hierarchical order of stylesheets",
+      "options2": "The process of combining multiple style rules",
+      "options3": "The flow of styles from parent to child elements",
+      "options4": "The priority order of CSS properties",
+      "ans": 3
+    },
+    {
+      "question": "Which property is used to add shadows to text?",
+      "options1": "text-shadow",
+      "options2": "shadow",
+      "options3": "box-shadow",
+      "options4": "text-effect",
+      "ans": 1
+    },
+    {
+      "question": "What does the 'box-sizing' property in CSS control?",
+      "options1": "The size of the box model",
+      "options2": "The spacing between boxes",
+      "options3": "The content area of the box",
+      "options4": "The positioning of the box",
+      "ans": 3
+    },
+    {
+      "question": "Which CSS property is used to control the space between lines of text?",
+      "options1": "line-height",
+      "options2": "text-spacing",
+      "options3": "line-spacing",
+      "options4": "text-line",
+      "ans": 1
+    },
+    {
+      "question": "What is the correct CSS syntax for making all <a> elements red when hovered over?",
+      "options1": "a:hover {color:red;}",
+      "options2": "a:hover {text-color:red;}",
+      "options3": "a.hover {color:red;}",
+      "options4": "a.hover {text-color:red;}",
+      "ans": 1
+    },
+    {
+      "question": "Which property is used to control the spacing between letters in a word?",
+      "options1": "word-spacing",
+      "options2": "letter-spacing",
+      "options3": "text-spacing",
+      "options4": "spacing",
+      "ans": 2
+    },
+    {
+      "question": "What does the 'float' property in CSS do?",
+      "options1": "It moves an element to the left or right of its container",
+      "options2": "It increases the size of an element",
+      "options3": "It changes the font style of an element",
+      "options4": "It makes an element transparent",
+      "ans": 1
+    },
+    {
+      "question": "Which CSS property is used to control the order of elements when displayed on a webpage?",
+      "options1": "display-order",
+      "options2": "z-index",
+      "options3": "position",
+      "options4": "order",
+      "ans": 4
+    },
+    {
+      "question": "What is the correct CSS syntax for applying a background image?",
+      "options1": "background-image:url('image.jpg');",
+      "options2": "background:url('image.jpg');",
+      "options3": "image:url('image.jpg');",
+      "options4": "bg-image:url('image.jpg');",
+      "ans": 1
+    },
+    {
+      "question": "Which property is used to control the alignment of text within its containing element?",
+      "options1": "text-align",
+      "options2": "align",
+      "options3": "text-style",
+      "options4": "text-position",
+      "ans": 1
+    },
+    {
+      "question": "What is the correct CSS syntax for hiding an element?",
+      "options1": "display:none;",
+      "options2": "visible:hidden;",
+      "options3": "hide:true;",
+      "options4": "hidden:true;",
+      "ans": 1
+    },
+    {
+      "question": "Which CSS property is used to add rounded corners to an element?",
+      "options1": "corner-radius",
+      "options2": "border-radius",
+      "options3": "rounded-corners",
+      "options4": "corner-style",
+      "ans": 2
+    },
+    {
+      "question": "What is the correct CSS syntax for changing the font of an element?",
+      "options1": "font-family:'Arial';",
+      "options2": "font-style:'Arial';",
+      "options3": "font:'Arial';",
+      "options4": "typeface:'Arial';",
+      "ans": 1
+    },
+    {
+      "question": "Which property is used to control the position of an element in relation to its containing element?",
+      "options1": "position",
+      "options2": "place",
+      "options3": "location",
+      "options4": "offset",
+      "ans": 1
+    },
+    {
+      "question": "What is the correct CSS syntax for applying a gradient background?",
+      "options1": "background:linear-gradient(red, blue);",
+      "options2": "background-gradient:linear(red, blue);",
+      "options3": "gradient:linear(red, blue);",
+      "options4": "gradient:red blue;",
+      "ans": 1
+    },
+    {
+      "question": "Which CSS property is used to control the size of an element relative to its containing element?",
+      "options1": "size",
+      "options2": "height-width",
+      "options3": "dimension",
+      "options4": "width",
+      "ans": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+#header {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  #header img {
+    width: 150px; /* Set image size for larger screens */
+  }
+  
+  .Quiz-left {
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    #header {
+      flex-direction: column; /* Stack elements vertically */
+      text-align: center;
+    }
+  
+    #header img {
+      display: none; /* Hide the image on mobile */
+    }
+  
+    .Quiz-left {
+      padding: 10px;
+    }
+  
+    #bttn {
+      width: 100%; /* Make the button full width */
+      padding: 10px;
+      margin-top: 15px;
+    }
+  }
+  
+  @media only screen and (min-width: 769px) {
+    #header {
+      flex-direction: row;
+    }
+  
+    #header img {
+      display: block; /* Show the image on larger screens */
+    }
+  }
+  
